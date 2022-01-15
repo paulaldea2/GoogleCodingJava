@@ -1,4 +1,4 @@
-# GoogleCodingJava
+# :desktop_computer: Google-Coding-Java
 
 ## What is does?
 I implemented in Java various components of a command-line application simulating YouTube. The application has the following important features:
