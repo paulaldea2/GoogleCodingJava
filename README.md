@@ -10,7 +10,7 @@ I implemented in Java various components of a command-line application simulatin
 The comand-line application simulating Youtube is implemented in Java.
 
 ## :crossed_swords: Challenges I ran into
-I knew how to work with Java but I encountered a lot of problems, for example: I implemented the method pauseVideo, I designed the method to pause the song from the playlist, but I didn't know who to play again the video from the state that I left the video, but with the help of the other students from Java group chat I managed to solve them.
+I knew how to work with Java but I encountered a lot of problems, for example: I implemented the method pauseVideo, I designed the method to pause the song from the playlist, but I didn't know how to play again the video from the state that I left the video, but with the help of the other students from Java group chat I managed to solve them.
 
 ## :trophy: What I learned and Accomplishments that I am proud of
 - How to pause a video and play again the video from the state that I left.
